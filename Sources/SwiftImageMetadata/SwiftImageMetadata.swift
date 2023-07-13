@@ -11,6 +11,8 @@ enum Metadata {
 
 public struct SwiftImageMetadata {
     
+    public init() {}
+    
     /// Reads source image input and extracts related metadata from file
     /// - Parameters:
     ///   - url: Filepath to image resource
