@@ -25,12 +25,12 @@ import SwiftImageMetadata
 let pathToFile = URL(filePath: "/path/file.heic")
 
 let simUtil = SwiftImageMetadata()
-let metadata = simUtil.readImageMetadata(fromURL: picPath, forMetadata: .gps)
+let metadata = simUtil.readImageMetadata(fromURL: pathToFile, forMetadata: .gps)
 
 print(metadata)
 ```
 
-##Available Metadata formats
+## Available Metadata formats
 ```ruby
 .all //returns all available metadata
 .exif
