@@ -1,4 +1,5 @@
 # SwiftImageMetadata
+[![Build Status](https://app.bitrise.io/app/fe765f9f-4e89-4ef8-9399-1b351ec5e7ec/status.svg?token=T2mDe5YFa3PrMbE93EMTUw&branch=master)](https://app.bitrise.io/app/fe765f9f-4e89-4ef8-9399-1b351ec5e7ec)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbdh777psu%2FSwiftImageMetadata%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/bdh777psu/SwiftImageMetadata)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbdh777psu%2FSwiftImageMetadata%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/bdh777psu/SwiftImageMetadata)
 
